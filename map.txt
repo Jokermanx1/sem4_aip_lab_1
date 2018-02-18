@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_45" class="java.beans.XMLDecoder">
+ <object class="java.util.TreeMap">
+  <void method="put">
+   <int>1</int>
+   <object class="vashkevich.lab1.BusStop">
+    <void property="disctancesList">
+     <object class="java.util.TreeMap">
+      <void method="put">
+       <int>2</int>
+       <int>12</int>
+      </void>
+      <void method="put">
+       <int>3</int>
+       <int>33</int>
+      </void>
+      <void method="put">
+       <int>4</int>
+       <int>32</int>
+      </void>
+     </object>
+    </void>
+    <void property="name">
+     <string>vrublevskogo</string>
+    </void>
+    <void property="stopId">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <int>2</int>
+   <object class="vashkevich.lab1.BusStop">
+    <void property="disctancesList">
+     <object class="java.util.TreeMap">
+      <void method="put">
+       <int>1</int>
+       <int>12</int>
+      </void>
+      <void method="put">
+       <int>3</int>
+       <int>44</int>
+      </void>
+     </object>
+    </void>
+    <void property="name">
+     <string>blk</string>
+    </void>
+    <void property="stopId">
+     <int>2</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <int>3</int>
+   <object class="vashkevich.lab1.BusStop">
+    <void property="disctancesList">
+     <object class="java.util.TreeMap">
+      <void method="put">
+       <int>1</int>
+       <int>33</int>
+      </void>
+      <void method="put">
+       <int>2</int>
+       <int>44</int>
+      </void>
+      <void method="put">
+       <int>4</int>
+       <int>55</int>
+      </void>
+     </object>
+    </void>
+    <void property="name">
+     <string>muravievyh</string>
+    </void>
+    <void property="stopId">
+     <int>3</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <int>4</int>
+   <object class="vashkevich.lab1.BusStop">
+    <void property="disctancesList">
+     <object class="java.util.TreeMap">
+      <void method="put">
+       <int>1</int>
+       <int>32</int>
+      </void>
+      <void method="put">
+       <int>3</int>
+       <int>55</int>
+      </void>
+     </object>
+    </void>
+    <void property="name">
+     <string>teatr</string>
+    </void>
+    <void property="stopId">
+     <int>4</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
